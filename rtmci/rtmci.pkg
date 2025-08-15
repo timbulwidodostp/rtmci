@@ -1,5 +1,7 @@
-D 'clogithet': Heteroscedastic conditional logit (logistic) regression model Use clogithet With STATA 19
+D 'rtmci': Estimate regression to the mean effects with confidence intervals Use rtmci With STATA 19
 D
-F clogithet.ado
-F clhet_d2.ado
-F clogithet.hlp
+F rtm_calc.ado
+F rtmci.ado
+F rtmci.sthlp
+F rtmcii.ado
+F rtmcii.sthlp
