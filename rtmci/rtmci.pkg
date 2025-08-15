@@ -1,0 +1,5 @@
+D 'clogithet': Heteroscedastic conditional logit (logistic) regression model Use clogithet With STATA 19
+D
+F clogithet.ado
+F clhet_d2.ado
+F clogithet.hlp
