@@ -2,4 +2,4 @@
 1
 2
 3
-p clogithet Heteroscedastic conditional logit (logistic) regression model Use clogithet With STATA 19
+p rtmci Estimate regression to the mean effects with confidence intervals Use rtmci With STATA 19
