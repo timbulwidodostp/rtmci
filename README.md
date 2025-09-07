@@ -1,6 +1,8 @@
 # rtmci
 Estimate regression to the mean effects with confidence intervals Use rtmci With STATA 19
 
+https://www.youtube.com/watch?v=ed0_WnHQr2c
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
